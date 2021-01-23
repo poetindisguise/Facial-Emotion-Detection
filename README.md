@@ -1,5 +1,5 @@
 # Facial-Emotion-Detection
-How to run this project
+## How to run this project
 Step 1: Make a folder named "Emotion Detection" in your google drive under "My Drive".This location is very important and should not be messed with because the code internally uses this path.
 
 Step 2: Download all the files present in this repository, unzip the zipped folders and upload it into the same "Emotion Detection folder"
